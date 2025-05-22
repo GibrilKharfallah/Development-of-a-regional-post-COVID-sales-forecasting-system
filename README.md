@@ -47,8 +47,14 @@ Key steps include:
 
 The forecast is visualized using `autoplot(pred)` and accuracy is measured via standard metrics (e.g., MAE, RMSE).
 
-## 📝 License
+## 🔒 License
 
-This project is available for educational and analytical purposes under the [MIT License](https://opensource.org/licenses/MIT).
----
-Feel free to reuse, modify, or extend the code for your own forecasting projects!
+This project is proprietary and confidential.  
+The source code is provided for **viewing and educational analysis only**.
+
+You are **not permitted** to:
+- Copy or clone the repository
+- Redistribute any part of the code or data
+- Use it in any commercial or personal project
+
+© Gibril Kharfallah 2022 – All rights reserved.
